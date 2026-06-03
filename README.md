@@ -1,1 +1,1 @@
-<img src="./banner.png" height="45" width="1200" alt="THUG COD1NG">
+<img src="https://i.postimg.cc/y8Qhz8B8/Github-shit.png" height="120" width="1200" alt="Vortex Logo">
