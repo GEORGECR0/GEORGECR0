@@ -1,1 +1,2 @@
-<img src="./banner.png" height="45" width="1200" alt="THUG COD1NG" style="opacity: 0.6;">
+<img src="./banner.png" width="1200" height="45"
+style="filter: drop-shadow(0px 0px 10px #00ffff);">
